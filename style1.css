@@ -1,0 +1,140 @@
+.h1{
+    text-align: center;
+    font-size: 35px;
+
+}
+.back{
+    background-color: #5491df;
+}
+.form{
+    background-color:white ;
+}
+.tr1{
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-bottom: 500px;
+    padding-right: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+.tr2{
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-bottom: 500px;
+    padding-right: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+.div{
+    background-color: aliceblue;
+    color: black;
+    font-size: 30px;
+}
+.tr3{
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-bottom: 500px;
+    padding-right: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.tr4{
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-bottom: 500px;
+    padding-right: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 30px;
+
+}
+
+.th1{
+    padding-left: 500px;
+    margin-top: 1px;
+    margin-bottom: 500px;
+    font-size: 35px;
+
+}
+.th2{
+    padding-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 500px;
+    font-size: 35px;
+}
+.th3{
+    padding-left: 370px;
+    
+    margin-top: 10px;
+    margin-bottom: 500px;
+    font-size: 35px;
+}
+.th4{
+    padding-left: 420px;
+    
+    margin-top: 1px;
+    margin-bottom: 500px;
+    font-size: 35px;
+}
+.th5{
+    padding-left: 100px;
+    
+    margin-top: 1px;
+    margin-bottom: 500px;
+    font-size: 35px;
+}
+
+#name{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#email{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#phone{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#destination{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#requirements{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.button{
+    background-color: #2a74ff;
+    border:none;
+    color:#ffffff;
+    padding:10px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+

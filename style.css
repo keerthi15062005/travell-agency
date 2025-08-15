@@ -1,0 +1,150 @@
+body{
+    font-family: 'open sans','sans-serif';
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.logo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.mysore{
+    font-size: 80px;
+}
+
+.links{
+    list-style: none;
+    display:flex;
+    gap:35px;
+
+}
+.main{
+    height: 450px;
+    background-image: url('https://images.unsplash.com/photo-1486162928267-e6274cb3106f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bmF0dXJlJTIwaW1hZ2UlMjB3aXRoJTIwZ3JlYXRlciUyMHdpZHRofGVufDB8fDB8fHww');
+    color:#ffffff;
+    text-align: center;
+    padding-top: 100px;
+}
+.h-title{
+    font-size: 65px;;
+}
+.h-lead{
+    font-size: 40px;
+    padding-top:0;
+    margin-top: 0;
+}
+.h-button{
+    background: #ffffff;
+    color: black;
+    padding: 15px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.destination{
+    padding:35px;
+}
+.destination-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:35px;
+    margin-top: 50px;
+text-align: center;
+}
+.grid-item img{
+    width:100%;
+    border:5px solid #dcffa0;
+    border-radius: 15px;;
+}
+.contact{
+    background:#7797d0;
+    padding: 35px;
+}
+.contact-card{
+    background-color: #ffffff;
+    border-radius:1px;
+    padding:20px;
+    width:650px;
+    margin:auto
+
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+input,textarea{
+    width:100%;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 10px;
+    
+}
+
+.book{
+    background-color: #6880ac;
+    border:none;
+    color:#ffffff;
+    padding:10px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
+.book1{
+    background-color: #2a74ff;
+    border:none;
+    color:#ffffff;
+    padding:10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.d1-title{
+    text-align: center;
+    font-size: 60px;
+
+}
+.font{
+    font-size: 25px;
+}
+.d1-lead{
+    text-align: center;
+    font-size:40px ;
+}
+.c-title{
+    text-align: center;
+    font-size: 35px;
+}
+.size{
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+     color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+.form{
+    background-color: #7797d0;
+}
+.tr{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
